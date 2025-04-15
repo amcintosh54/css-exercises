@@ -1,0 +1,15 @@
+p{
+    background-color: #f2bbbb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+} 
+.large-font{
+    font-size: 18px;
+}
+#id-1{
+    color: blue;
+    font-size: 32px;
+}
+#id-2{
+    background-color: green;
+    font-weight: bold;
+}
